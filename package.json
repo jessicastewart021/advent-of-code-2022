@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "private": false,
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:coverage": "jest --coverage"
   },
   "devDependencies": {
     "@swc/cli": "^0.1.57",
